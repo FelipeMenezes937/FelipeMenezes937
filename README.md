@@ -29,7 +29,7 @@
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/ffelipemenezes)  
-- ✉️ Email: **[adicione seu email aqui]**
+- ✉️ Email: **felipemenezes937@gmail.com**
 
 ---
 
