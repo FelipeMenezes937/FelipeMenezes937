@@ -40,12 +40,12 @@ Oportunidades para aprender, experimentar e contribuir com projetos reais que un
 <div style="display: flex; gap: 10px;">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ffelipemenezes&show_icons=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=github_dark"
   />
 
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipemenezes&layout=compact&langs_count=8&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMenezes937&layout=compact&langs_count=8&theme=github_dark"
   />
 </div>
 
