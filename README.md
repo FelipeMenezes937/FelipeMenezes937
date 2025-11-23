@@ -37,16 +37,20 @@ Oportunidades para aprender, experimentar e contribuir com projetos reais que un
 --- 
 
 ## 📊 GitHub Stats & Most Used Languages
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start; flex-wrap: wrap;">
+
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeMenezes937&theme=github_dark" 
+    height="200"
+    alt="GitHub Stats"
   />
 
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMenezes937&layout=compact&langs_count=8&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeMenezes937&theme=github_dark" 
+    height="200"
+    alt="Most Used Languages"
   />
+
 </div>
 
 ---
