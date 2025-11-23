@@ -31,11 +31,6 @@ Atualmente, aprofundo meus estudos em Python, modelos de linguagem, cloud, pipel
 
 ---
 
-## O que eu busco
-
-Oportunidades para aprender, experimentar e contribuir com projetos reais que unam engenharia, IA e segurança. Sempre aberto a novas tecnologias, desafios e conversas construtivas sobre carreira e desenvolvimento.
---- 
-
 ## 📊 GitHub Stats & Most Used Languages
 ## 📊 GitHub Stats & Most Used Languages
 
