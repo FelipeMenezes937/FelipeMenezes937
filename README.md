@@ -37,7 +37,7 @@ Oportunidades para aprender, experimentar e contribuir com projetos reais que un
 --- 
 
 ## 📊 GitHub Stats & Most Used Languages
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=github_dark"
