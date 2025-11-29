@@ -31,7 +31,7 @@ Atualmente, aprofundo meus estudos em Python, modelos de linguagem, cloud, pipel
 
 ---
 
-## 📊 GitHub Stats & Most Used Languages
+
 ## 📊 GitHub Stats & Most Used Languages
 
 <table>
