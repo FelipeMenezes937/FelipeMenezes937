@@ -20,17 +20,6 @@ Atualmente, aprofundo meus estudos em Python, modelos de linguagem, cloud, pipel
 
 ---
 
-## Áreas de Interesse
-
-- Inteligência Artificial e GenAI  
-- Desenvolvimento de agentes e pequenas automações  
-- DevSecOps e segurança aplicada a sistemas  
-- Engenharia de software e arquitetura  
-- Cloud Computing  
-- CI/CD e ambientes Linux  
-
----
-
 
 ## 📊 GitHub Stats & Most Used Languages
 
