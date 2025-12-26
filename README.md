@@ -60,7 +60,8 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ## Notable Projects
 
 ### [CyberSecurity Platform]
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=infovirus---Malware-Analisys&theme=tokyonight)](https://github.com/FelipeMenezes937/infovirus---Malware-Analisys.git)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=infovirus---Malware-Analisys&theme=tokyonight&show_owner=true)](https://github.com/FelipeMenezes937/infovirus---Malware-Analisys)
+  
 **Tech Stack:** PHP • JavaScript • SQL • REST API  
 **Status:** Complete  
 *"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources."*
@@ -68,7 +69,7 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ---
 
 ### [Native LLM]
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight&show_owner=true)](https://github.com/FelipeMenezes937/ai-chatbot-assistant.git).  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight&show_owner=true)](https://github.com/FelipeMenezes937/ai-chatbot-assistant)
 
 **Tech Stack:** Node.js • JavaScript/TypeScript • LLM Architecture • NLP • API Integration • MongoDB  
 **Status:** In Development  
