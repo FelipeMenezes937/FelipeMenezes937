@@ -57,30 +57,22 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ### Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/FelipeMenezes937" alt="Contribution Calendar" width="100%"/>
 
-
 ## Notable Projects
 
-<div align="center">
-
-### [CyberSecurity Platform) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ecommerce-microservices-platform&theme=tokyonight)]
-(https://github.com/FelipeMenezes997/ecommerce-microservices-platform)
-**Tech Stack:** PHP • Javacript • SQL • REST api
-**Status:** Complete
-**"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources.**
+### [CyberSecurity Platform]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ecommerce-microservices-platform&theme=tokyonight)](https://github.com/FelipeMenezes937/ecommerce-microservices-platform)  
+**Tech Stack:** PHP • JavaScript • SQL • REST API  
+**Status:** Complete  
+*"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources."*
 
 ---
 
-### [Native LLM)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight&show_owner=true)]
-(https://github.com/FelipeMenezes937/ai-chatbot-assistant)
-
+### [Native LLM]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight&show_owner=true)](https://github.com/FelipeMenezes937/ai-chatbot-assistant)  
 
 **Tech Stack:** Node.js • JavaScript/TypeScript • LLM Architecture • NLP • API Integration • MongoDB  
 **Status:** In Development  
 *A native Large Language Model built with Node.js, designed to process, understand, and generate natural language responses, integrating multiple resources and APIs for intelligent and scalable interactions.*
-
-</div>
 
 ## Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
