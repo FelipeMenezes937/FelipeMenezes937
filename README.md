@@ -41,35 +41,35 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 
 ## My GitHub Journey
 
-### Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMenezes937&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
-
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### Streak Statistics
 <p align="center">
- <img src="https://github-readme-streak-stats.vercel.app/?user=FelipeMenezes937&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=FelipeMenezes937&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats for FelipeMenezes937" />
 </p>
 
 ### Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/FelipeMenezes937" alt="Contribution Calendar" width="100%"/>
-
-## Notable Projects
-
-### CyberSecurity Platform
+---
+## Notable Projects### CyberSecurity Platform
 Tech Stack: PHP • JavaScript • SQL • REST API  
+
 Status: Complete  
-*"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources."*  
+
+"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources."  
+
 [more](https://github.com/FelipeMenezes937/infovirus---Malware-Analisys)
+
 ---
 
 ### Native LLM
 Tech Stack: Node.js • JavaScript/TypeScript • LLM Architecture • NLP • API Integration • MongoDB  
+
 Status: In Development  
+
 *A native Large Language Model built with Node.js, designed to process, understand, and generate natural language responses, integrating multiple resources and APIs for intelligent and scalable interactions.*  
+
 [more](https://github.com/FelipeMenezes937/ai-chatbot-assistant)
 
 ## Certifications & Achievements
