@@ -44,15 +44,12 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### Streak Statistics
-<p align="center">
-<img src="https://github-readme-streak-stats.vercel.app/?user=FelipeMenezes937&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats for FelipeMenezes937" />
-</p>
-
 ### Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/FelipeMenezes937" alt="Contribution Calendar" width="100%"/>
 ---
-## Notable Projects### CyberSecurity Platform
+## Notable Projects
+
+### CyberSecurity Platform
 Tech Stack: PHP • JavaScript • SQL • REST API  
 
 Status: Complete  
