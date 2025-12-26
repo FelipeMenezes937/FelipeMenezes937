@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <img height="150" <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 # Felipe Menezes | Software Developer
@@ -7,14 +7,7 @@
 
 Hi there! I'm Felipe, a passionate Software Developer constantly exploring new technologies and building innovative solutions. Welcome to my corner of GitHub!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMenezes937&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## Current Focus
-
--  Working on: **[A personal full-stack project focusing on cloud deployment]** <!-- TODO: Add your current main project -->
 -  Learning: **Node**
 -  Ask me about: **[JavaScript, Java, React, REST APIs, or database design.]**
 
