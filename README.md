@@ -21,7 +21,7 @@ Atualmente, aprofundo meus estudos em Python, modelos de linguagem, cloud, pipel
 ---
 
 
-## 📊 GitHub Stats & Most Used Languages
+##  GitHub Stats & Most Used Languages
 
 <table>
   <tr>
@@ -45,10 +45,10 @@ Atualmente, aprofundo meus estudos em Python, modelos de linguagem, cloud, pipel
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/ffelipemenezes)  
 - ✉️ Email: **felipemenezes937@gmail.com**
 
 ---
 
-✨ *“Sempre aprendendo, sempre construindo.”*  
+ *“Sempre aprendendo, sempre construindo.”*  
