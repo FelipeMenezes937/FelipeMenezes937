@@ -1,54 +1,121 @@
-# Olá, eu sou o Felipe Menezes
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+</div>
 
-Sou estudante de **Engenharia de Software** na FIAP e tenho interesse em **GenAI, DevSecOps** e **segurança aplicada à engenharia**. Gosto de construir soluções práticas que unam desenvolvimento, automação e inteligência artificial de maneira simples e objetiva.  
-Atualmente, aprofundo meus estudos em Python, modelos de linguagem, cloud, pipelines de automação e boas práticas de segurança e engenharia.
+# Felipe Menezes | Software Developer
+### Building the future, one commit at a time
+
+Hi there! I'm Felipe, a passionate Software Developer constantly exploring new technologies and building innovative solutions. Welcome to my corner of GitHub!
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMenezes937&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## Current Focus
+
+-  Working on: **[A personal full-stack project focusing on cloud deployment]** <!-- TODO: Add your current main project -->
+-  Learning: **Node**
+-  Ask me about: **[JavaScript, Java, React, REST APIs, or database design.]**
+
+## 🛠️ Technology Arsenal
+
+###  Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+###  Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## My GitHub Journey
+
+### Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMenezes937&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+</p>
+
+### Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMenezes937&theme=tokyonight&hide_border=true"/>
+</p>
+
+### Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/FelipeMenezes937" alt="Contribution Calendar" width="100%"/>
+
+
+## 🏗️ Notable Projects
+
+<div align="center">
+
+### 🌟 [CyberSecurity Platform) <!-- TODO: Replace with actual project -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ecommerce-microservices-platform&theme=tokyonight)](https://github.com/FelipeMenezes997/ecommerce-microservices-platform)
+
+**Tech Stack:** PHP • Javacript • SQL • REST api
+**Status:** ✅ Complete
+**"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources.**
 
 ---
 
-## Tecnologias & Ferramentas
+### 🔥 [Native LLM)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight)](https://github.com/FelipeMenezes997/ai-chatbot-assistant)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+**Tech Stack:** Node.js • JavaScript/TypeScript • LLM Architecture • NLP • API Integration • MongoDB  
+**Status:** 🚧 In Development  
+*A native Large Language Model built with Node.js, designed to process, understand, and generate natural language responses, integrating multiple resources and APIs for intelligent and scalable interactions.*
+
+</div>
+
+## 🎓 Certifications & Achievements
+<!-- TODO: Add your certifications, courses, achievements -->
+-  **Java Development**
+-  **Computer Networks**
+-  **FrontEnd with React**
+-  **Node Introduction and REST api**
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/ffelipemenezes) <!-- TODO: Add your LinkedIn -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemenezez937@gmail.com) <!-- TODO: Add your email -->
+
 </div>
 
 ---
 
-
-##  GitHub Stats & Most Used Languages
-
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeMenezes937&theme=github_dark"
-        alt="GitHub Stats"
-        height="200"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeMenezes937&theme=github_dark"
-        alt="Most Used Languages"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
 
 ---
 
-##  Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/ffelipemenezes)  
-- ✉️ Email: **felipemenezes937@gmail.com**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelipeMenezes937&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
----
+  ### 🚀 "Code is poetry, and every commit tells a story"
 
- *“Sempre aprendendo, sempre construindo.”*  
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
