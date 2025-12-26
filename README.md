@@ -44,11 +44,6 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### Contribution Calendar
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=github_dark" />
-
-
-
 ---
 ## Notable Projects
 
