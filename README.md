@@ -11,7 +11,7 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 -  Learning: **Node**
 -  Ask me about: **[JavaScript, Java, React, REST APIs, or database design.]**
 
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 ###  Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,7 +43,7 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 
 ### Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMenezes937&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMenezes937&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
 ### Contribution Activity
@@ -51,44 +51,45 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 
 ### Streak Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMenezes937&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-streak-stats.vercel.app/?user=FelipeMenezes937&theme=tokyonight&hide_border=true" />
 </p>
 
 ### Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/FelipeMenezes937" alt="Contribution Calendar" width="100%"/>
 
 
-## 🏗️ Notable Projects
+## Notable Projects
 
 <div align="center">
 
-### 🌟 [CyberSecurity Platform) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ecommerce-microservices-platform&theme=tokyonight)](https://github.com/FelipeMenezes997/ecommerce-microservices-platform)
-
+### [CyberSecurity Platform) <!-- TODO: Replace with actual project -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ecommerce-microservices-platform&theme=tokyonight)]
+(https://github.com/FelipeMenezes997/ecommerce-microservices-platform)
 **Tech Stack:** PHP • Javacript • SQL • REST api
-**Status:** ✅ Complete
+**Status:** Complete
 **"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources.**
 
 ---
 
-### 🔥 [Native LLM)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight)](https://github.com/FelipeMenezes997/ai-chatbot-assistant)
+### [Native LLM)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMenezes937&repo=ai-chatbot-assistant&theme=tokyonight&show_owner=true)]
+(https://github.com/FelipeMenezes937/ai-chatbot-assistant)
 
 
 **Tech Stack:** Node.js • JavaScript/TypeScript • LLM Architecture • NLP • API Integration • MongoDB  
-**Status:** 🚧 In Development  
+**Status:** In Development  
 *A native Large Language Model built with Node.js, designed to process, understand, and generate natural language responses, integrating multiple resources and APIs for intelligent and scalable interactions.*
 
 </div>
 
-## 🎓 Certifications & Achievements
+## Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
 -  **Java Development**
 -  **Computer Networks**
 -  **FrontEnd with React**
 -  **Node Introduction and REST api**
 
-## 🌐 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
@@ -100,7 +101,7 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ---
 
 <div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+  <sub> <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
 </div>
 
 ---
@@ -108,7 +109,7 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FelipeMenezes937&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+  ###  "Code is poetry, and every commit tells a story"
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+  <sub> Feel free to star any repositories you find interesting!</sub>
 </div>
