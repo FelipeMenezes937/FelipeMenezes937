@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
 # Felipe Menezes | Software Developer
 ### Building the future, one commit at a time
 
