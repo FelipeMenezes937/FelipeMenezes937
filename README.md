@@ -14,6 +14,9 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ### Frameworks & Libraries
@@ -21,10 +24,16 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET%20Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -40,35 +49,23 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
----
-## Notable Projects
+---## 🚀 Selected Projects
 
-### CyberSecurity Platform
-Tech Stack: PHP • JavaScript • SQL • REST API  
+### Cybersecurity Platform (Academic / Personal Project)
+Tech Stack: PHP • JavaScript • SQL • REST APIs  
 
-Status: Complete  
+Project focused on backend development, API integration, and secure data handling in web applications.  
 
-"The Cybersecurity Platform includes highly useful tools designed for use anywhere, integrating different Internet resources."  
-
-[more](https://github.com/FelipeMenezes937/infovirus---Malware-Analisys)
+[Repository](https://github.com/FelipeMenezes937/infovirus---Malware-Analisys)
 
 ---
 
-### Native LLM
-Tech Stack: Node.js • JavaScript/TypeScript • LLM Architecture • NLP • API Integration • MongoDB  
+### AI Chat Assistant (LLM Integration)
+Tech Stack: Node.js • TypeScript • REST APIs • MongoDB  
 
-Status: In Development  
+Backend application integrating a local LLM to process and generate natural language responses via HTTP APIs.  
 
-*A native Large Language Model built with Node.js, designed to process, understand, and generate natural language responses, integrating multiple resources and APIs for intelligent and scalable interactions.*  
-
-[more](https://github.com/FelipeMenezes937/ai-chatbot-assistant)
-
-## Certifications & Achievements
-<!-- TODO: Add your certifications, courses, achievements -->
--  **Java Development**
--  **Computer Networks**
--  **FrontEnd with React**
--  **Node Introduction and REST api**
+[Repository](https://github.com/FelipeMenezes937/ai-chatbot-assistant)
 
 ## Let's Connect & Collaborate
 
@@ -82,15 +79,5 @@ Status: In Development
 ---
 
 <div align="center">
-  <sub> <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=FelipeMenezes937&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ###  "Code is poetry, and every commit tells a story"
-
-  <sub> Feel free to star any repositories you find interesting!</sub>
 </div>
