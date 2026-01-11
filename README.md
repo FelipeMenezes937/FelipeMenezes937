@@ -1,3 +1,4 @@
+
 # Felipe Menezes | Software Developer
 ### Building the future, one commit at a time
 
@@ -49,7 +50,8 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
----## 🚀 Selected Projects
+---
+## 🚀 Selected Projects
 
 ### Cybersecurity Platform (Academic / Personal Project)
 Tech Stack: PHP • JavaScript • SQL • REST APIs  
