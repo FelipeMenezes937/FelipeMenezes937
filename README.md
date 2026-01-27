@@ -2,11 +2,7 @@
 # Felipe Menezes | Software Developer
 ### Building the future, one commit at a time
 
-Hi there! I'm Felipe, a passionate Software Developer constantly exploring new technologies and building innovative solutions. Welcome to my corner of GitHub!
-
-## Current Focus
--  Learning: **Node**
--  Ask me about: **[JavaScript, Java, React, REST APIs, or database design.]**
+Hi there! I'm Felipe, a passionate Software Developer constantly exploring new technologies and building innovative solutions. Welcome to my corner of GitHub
 
 ## Technology Arsenal
 
