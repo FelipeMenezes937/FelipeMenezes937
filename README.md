@@ -1,6 +1,5 @@
 
 # Felipe Menezes | Software Developer
-### Building the future, one commit at a time
 
 Hi there! I'm Felipe, a passionate Software Developer constantly exploring new technologies and building innovative solutions. Welcome to my corner of GitHub
 
@@ -40,32 +39,8 @@ Hi there! I'm Felipe, a passionate Software Developer constantly exploring new t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-## My GitHub Journey
-
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
----
-## 🚀 Selected Projects
-
-### Cybersecurity Platform (Academic / Personal Project)
-Tech Stack: PHP • JavaScript • SQL • REST APIs  
-
-Project focused on backend development, API integration, and secure data handling in web applications.  
-
-[Repository](https://github.com/FelipeMenezes937/infovirus---Malware-Analisys)
-
----
-
-### AI Chat Assistant (LLM Integration)
-Tech Stack: Node.js • TypeScript • REST APIs • MongoDB  
-
-Backend application integrating a local LLM to process and generate natural language responses via HTTP APIs.  
-
-[Repository](https://github.com/FelipeMenezes937/ai-chatbot-assistant)
-
-## Let's Connect & Collaborate
 
 <div align="center">
 
