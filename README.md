@@ -48,7 +48,13 @@
 
 ### Estatísticas
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMenezes937&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeMenezes937&show_icons=true&theme=tokyo-night&bg_color=1a1b27&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMenezes937&layout=compact&theme=tokyo-night&bg_color=1a1b27&hide_border=true)
+
+</div>
 
 ---
 
