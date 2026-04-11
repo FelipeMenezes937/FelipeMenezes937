@@ -1,29 +1,29 @@
 # Felipe Menezes
 
-Software Developer based in Brazil. Currently studying Software Engineering at FIAP with a 100% scholarship and included English course.
+Desenvolvedor de Software baseado no Brasil. Estudante de Engenharia de Software na FIAP com bolsa de 100% e curso de inglês incluso.
 
-## About
+## Sobre
 
-- Working on full-stack projects
-- Learning Cloud Computing and AI
-- Looking to collaborate on open-source projects
-- Can help with: C++, React, Node.js, Java, Python and REST APIs
+- Trabalhando em projetos full-stack
+- Aprendendo Cloud Computing e IA
+- Buscando colaborar em projetos open-source
+- Posso ajudar com: C++, React, Node.js, Java, Python e APIs REST
 
-## Tech Stack
+## Tecnologias
 
-**Languages**
+**Linguagens**
 JavaScript, Python, TypeScript, Java, C#, PHP
 
 **Frameworks**
 React, Node.js, Express, Flask, Laravel, Spring Boot, FastAPI, NestJS
 
-**Cloud & DevOps**
+**Cloud e DevOps**
 AWS, Docker, Git
 
-**Databases**
+**Bancos de Dados**
 PostgreSQL, MongoDB, MySQL, SQLite
 
-## Contact
+## Contato
 
 - Email: felipemenezez937@gmail.com
 - LinkedIn: linkedin.com/in/ffelipemenezes
