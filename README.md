@@ -1,6 +1,6 @@
 # Felipe Menezes
 
-Desenvolvedor de Software baseado no Brasil. Estudante de Engenharia de Software na FIAP com bolsa de 100% e curso de inglês incluso.
+Desenvolvedor de Software. Estudante de Engenharia de Software na FIAP
 
 ## Sobre
 
